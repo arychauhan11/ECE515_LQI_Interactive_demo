@@ -137,8 +137,6 @@ The notebook demonstrates:
 1. **Equations of Motion**: Symbolic derivation using Lagrangian mechanics
 2. **System Linearization**: Linear approximation around equilibrium
 3. **LQR Control**: Optimal regulator design minimizing a quadratic cost function
-4. **LQI Control**: Extended controller with integral action for tracking and disturbance rejection
-5. **Interactive Visualization**: Real-time comparison of linear vs. nonlinear responses under varying parameters
 
 ## Next Steps
 
