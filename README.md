@@ -9,7 +9,7 @@ An interactive Pluto notebook demonstrating optimal feedback control design (LQR
 #### 1. Clone or Download the Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/arychauhan11/ECE515_LQI_Interactive_demo>
 cd LQI_ECE515_project
 ```
 
